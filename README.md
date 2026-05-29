@@ -205,7 +205,7 @@ Docker ensures:
 # Clone Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/03manish03/online_code_compiler.git
 ```
 
 # Frontend Setup
